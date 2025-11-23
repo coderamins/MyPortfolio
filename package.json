@@ -11,7 +11,7 @@
     "react-scripts": "^1.1.5",
     "redux": "^4.1.1"
   },
-  "homepage": "https://coderamins.github.io/coderamins",
+  "homepage": "https://coderamins.github.io/MyPortfolio",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
